@@ -1,0 +1,2 @@
+[2026-04-05 17:47:31.504589] ERROR: ConnectionError — No connection
+[2026-04-05 17:47:31.750181] ERROR: HTTPError — 404 Not Found for product ID 999
